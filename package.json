@@ -1,0 +1,14 @@
+{
+  "name": "db-validation",
+  "description": "Database Validation Demo",
+  "version": "1.0.0",
+  "keywords": [
+    "vREST NG",
+    "npm",
+    "db-integration",
+    "mssql"
+  ],
+  "dependencies": {
+    "mssql": "8.0.2"
+  }
+}

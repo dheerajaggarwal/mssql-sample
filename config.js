@@ -1,3 +1,4 @@
+//TODO: define these parameters as per your database configuration.
 module.exports = {
   "query": `select * from mytable where id = db_id`,
   "hostname": "localhost",

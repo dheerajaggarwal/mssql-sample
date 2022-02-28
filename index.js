@@ -35,7 +35,7 @@ async function executeQuery(query){
 
 async function mainFunction(){
   await getDBConnection();
-  await executeQuery(query);
+  await executeQuery(obj.query);
 }
 
 mainFunction();

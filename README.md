@@ -1,12 +1,12 @@
-// 1. install the dependencies
+#### 1. Install the dependencies
 
 ```
 npm install
 ```
 
-// 2. modify the `config.js` file
+#### 2. Modify the `config.js` file as per your database configuration
 
-// 3. run the script
+#### 3. Run the script
 
 ```
 node index.js
